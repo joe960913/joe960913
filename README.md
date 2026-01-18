@@ -26,4 +26,49 @@
       <div align="center">
         <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      </div>
+      
+      <div align="center" style="margin-top: 5px">
+        <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </div>
+      <div align="center" style="margin-top: 5px">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fly.io-24185B?style=for-the-badge&logo=fly.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      </div>
+
+    </td>
+    <td align="center" width="50%">
+      
+      ### 🎧 Vibe Check
+      <div align="center">
+        <img src="https://novatipy-sigma.vercel.app/spotify/382e21b0-272e-406c-82c5-7634f5934149/0_1_2.png" alt="Spotify Playing" width="100%" />
+        <br/>
+        <i>Listening to Melodic Rap / Trap 🎵</i>
+      </div>
+      
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <a href="https://github.com/joe960913">
+    <img src="https://github-readme-stats.vercel.app/api?username=joe960913&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe960913&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joe960913&theme=tokyonight" width="100%" alt="3D stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
