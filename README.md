@@ -1,21 +1,25 @@
-<div align="center" style="margin-top: 50px;">
+<div align="left">
 
-  <a href="https://2ander.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=60&duration=1&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&height=120&lines=Zander+Zi" alt="Zander Zi" />
-  </a>
+<br/>
 
-  <p style="font-family: sans-serif; color: #888888; font-size: 14px; margin-bottom: 30px;">
-    Design Engineer · LLM Application · Full Stack
-  </p>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="50">
-
-  <br/><br/>
-
-  <a href="https://2ander.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/2ander.com-1a1a1a?style=for-the-badge&logo=arrow&logoColor=white&labelColor=f0f0f0&color=1a1a1a" height="32" alt="2ander.com" />
-  </a>
-  
-</div>
+<a href="https://2ander.com" style="text-decoration: none;">
+  <kbd style="background-color: white; color: #1a1a1a; border: 1px solid #d0d7de; border-radius: 5px; padding: 3px 12px; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 14px; box-shadow: none; font-weight: 500;">2ander.com</kbd>
+</a>
 
 <br/><br/>
+
+<div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 12px; line-height: 1.8; letter-spacing: 0.5px;">
+  
+  <span style="color: #57606a;">read profile.</span>
+  
+  <br/>
+  
+  <span style="color: #8c959f;">chat w/ me to seek more.</span>
+  
+  <span style="color: #d0d7de;">&nbsp;— use my dog's name</span>
+
+</div>
+
+<br/>
+
+</div>
